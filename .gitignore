@@ -1,6 +1,6 @@
 ## self generated dataset
-gesturanet_raw_dataset/
-
+gesturanet_*/
+weights*/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -159,6 +159,7 @@ activemq-data/
 .venv
 env/
 venv/
+venvlinux/
 ENV/
 env.bak/
 venv.bak/
